@@ -1,0 +1,19 @@
+.operations-section {
+  /* height: 30rem; */
+  background-color: var(--color-section-2);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-bottom: 10rem;
+}
+
+.operations-section .content {
+  display: grid;
+  align-items: center;
+  justify-content: center;
+
+  max-width: 100rem;
+  min-width: 80rem;
+}

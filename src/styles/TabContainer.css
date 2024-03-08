@@ -1,0 +1,61 @@
+.operation-tabs-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  max-width: 70rem;
+  min-width: 60rem;
+
+  background-color: var(--color-section-1);
+
+  border-radius: 10px;
+}
+
+.operation-tabs-container .tabs {
+  display: flex;
+  justify-content: center;
+
+  background-color: var(--color-section-1);
+}
+
+.operation-tabs-container .tab-container {
+  max-width: 60rem;
+  min-width: 60rem;
+  /* height: 20rem; */
+}
+
+.operation-tabs-container .tabs button {
+  display: inline-block;
+  cursor: pointer;
+
+  font-size: 1.2rem;
+  font-family: inherit;
+  font-weight: 500;
+
+  padding: 0.5rem 1.5rem;
+  margin: 0rem 1rem;
+
+  border: none;
+  border-radius: 10rem;
+
+  transform: translateY(-50%);
+
+  transition: all 0.3s;
+}
+
+.operation-tabs-container .tabs .tab-active {
+  transform: translateY(-70%);
+}
+
+#tranfers {
+  background-color: var(--color-primary);
+}
+
+#loans {
+  background-color: var(--color-secondary);
+}
+
+#closing {
+  background-color: var(--color-tertiary);
+}

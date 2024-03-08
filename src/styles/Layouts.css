@@ -1,0 +1,27 @@
+.two-col-layout {
+  display: grid;
+  grid-template-columns: 50% 50%;
+}
+
+.center-layout {
+  display: grid;
+  justify-content: center;
+  align-items: center;
+}
+
+.modal-window-container-layout {
+  width: 100%;
+  height: 100%;
+}
+
+#two-col-home {
+  grid-template-columns: 3fr 2fr;
+  align-items: center;
+  justify-content: center;
+  justify-items: center;
+  width: 100rem;
+}
+
+#center-layout-signup {
+  max-width: 70rem;
+}

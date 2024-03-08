@@ -1,0 +1,25 @@
+.testimonials-section {
+  /* height: 30rem; */
+  background-color: var(--color-section-1);
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  padding-bottom: 10rem;
+}
+
+.testimonials-section .section-title {
+  padding: 0rem 0rem;
+  margin: 0rem 0rem;
+
+  margin-top: 6rem;
+  margin-bottom: 1.5rem;
+}
+
+.testimonials-section .content {
+  max-width: 65rem;
+  min-width: 65rem;
+
+  height: 15rem;
+}

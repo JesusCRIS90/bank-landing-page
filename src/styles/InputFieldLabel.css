@@ -1,0 +1,24 @@
+.input-field-label {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  align-items: center;
+
+  margin: 0rem 0rem;
+  padding: 0.5rem 5rem;
+}
+
+.input-field-label label {
+  font-size: 1.2rem;
+  font-family: inherit;
+  font-weight: 500;
+}
+
+.input-field-label input {
+  font-size: 1.7rem;
+  font-family: inherit;
+
+  border: 1px solid #ddd;
+  border-radius: 0.5rem;
+
+  max-width: 15rem;
+}

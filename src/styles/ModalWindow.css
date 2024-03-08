@@ -1,0 +1,36 @@
+.modal-window {
+  display: grid;
+  grid-template-rows: 10% auto;
+
+  background-color: #f3f3f3;
+  box-shadow: 0 4rem 6rem rgba(0, 0, 0, 0.3);
+  z-index: 10;
+
+  transition: all 0.5s;
+}
+
+.modal-window .close-modal {
+  /* position: relative; */
+  /* top: 3%; */
+  /* left: 92%; */
+
+  justify-self: flex-end;
+
+  margin: 0rem 0rem;
+  padding: 0rem 0rem;
+  margin-right: 1rem;
+
+  font-family: inherit;
+  font-size: 2.5rem;
+
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+#modal-open-account {
+  max-width: 35rem;
+  min-width: 35rem;
+
+  border-radius: 0.5rem;
+}
