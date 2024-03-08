@@ -1,7 +1,7 @@
 const AppInfo = {
   Header: {
     Logo: {
-      src: "../../public/img/icon.png",
+      src: "/img/icon.png",
       name: "Bankist",
     },
     NavItems: [
@@ -35,7 +35,7 @@ const AppInfo = {
   },
   Footer: {
     Logo: {
-      src: "../../public/img/icon.png",
+      src: "/img/icon.png",
     },
     NavItems: [
       {
@@ -98,7 +98,7 @@ const AppInfo = {
       },
     },
     Image: {
-      src: "../../public/img/hero.png",
+      src: "/img/hero.png",
       className: "image",
       alt: "Minimalist Bank image",
     },
@@ -111,34 +111,34 @@ const AppInfo = {
     Features: [
       {
         Image: {
-          src: "../../public/img/digital.jpg",
+          src: "/img/digital.jpg",
           className: "feature-1",
           alt: "feature-1",
         },
         ClassName: "bank-feature-card",
-        Icon: "../../public/img/icons.svg#icon-monitor",
+        Icon: "/img/icons.svg#icon-monitor",
         Title: "100% Digital Bank",
         Text: "Lorem ipsum dolor sit amet consectetur adipisicing elit. Unde alias sint quos? Accusantium a fugiat porro reiciendis saepe quibusdam debitis ducimus.",
       },
       {
         Image: {
-          src: "../../public/img/grow.jpg",
+          src: "/img/grow.jpg",
           className: "feature-2",
           alt: "feature-2",
         },
         ClassName: "bank-feature-card",
-        Icon: "../../public/img/icons.svg#icon-trending-up",
+        Icon: "/img/icons.svg#icon-trending-up",
         Title: "Watch your money grow",
         Text: "Nesciunt quos autem dolorum voluptates cum dolores dicta fuga inventore ab? Nulla incidunt eius numquam sequi iste pariatur quibusdam!",
       },
       {
         Image: {
-          src: "../../public/img/card.jpg",
+          src: "/img/card.jpg",
           className: "feature-3",
           alt: "feature-3",
         },
         ClassName: "bank-feature-card",
-        Icon: "../../public/img/icons.svg#icon-credit-card",
+        Icon: "/img/icons.svg#icon-credit-card",
         Title: "Free debit card included",
         Text: "Quasi, fugit in cumque cupiditate reprehenderit debitis animi enim eveniet consequatur odit quam quos possimus assumenda dicta fuga inventore ab.",
       },
@@ -157,7 +157,7 @@ const AppInfo = {
           text: "Instant Tranfers",
           data: {
             ClassName: "bank-operation-card card-tranfer",
-            Icon: "../../public/img/icons.svg#icon-upload",
+            Icon: "/img/icons.svg#icon-upload",
             Title: "Tranfser money to anyone, instantly! No fees, no BS.",
             Text: "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
           },
@@ -167,7 +167,7 @@ const AppInfo = {
           text: "Instant Loans",
           data: {
             ClassName: "bank-operation-card card-loans",
-            Icon: "../../public/img/icons.svg#icon-home",
+            Icon: "/img/icons.svg#icon-home",
             Title:
               "Buy a home or make your dreams come true, with instant loans.",
             Text: "Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
@@ -178,7 +178,7 @@ const AppInfo = {
           text: "Instant Closing",
           data: {
             ClassName: "bank-operation-card card-closing",
-            Icon: "../../public/img/icons.svg#icon-user-x",
+            Icon: "/img/icons.svg#icon-user-x",
             Title:
               "No longer need your account? No problem! Close it instantly.",
             Text: "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
@@ -196,7 +196,7 @@ const AppInfo = {
       {
         Profile: {
           Image: {
-            src: "../../public/img/user-1.jpg",
+            src: "/img/user-1.jpg",
             alt: "",
             className: "image-profile",
           },
@@ -209,7 +209,7 @@ const AppInfo = {
       {
         Profile: {
           Image: {
-            src: "../../public/img/user-2.jpg",
+            src: "/img/user-2.jpg",
             alt: "",
             className: "image-profile",
           },
@@ -222,7 +222,7 @@ const AppInfo = {
       {
         Profile: {
           Image: {
-            src: "../../public/img/user-3.jpg",
+            src: "/img/user-3.jpg",
             alt: "",
             className: "image-profile",
           },
