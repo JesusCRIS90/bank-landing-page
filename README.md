@@ -1,7 +1,7 @@
 # 💰 Bank Landing Page - React & JavaScript
 Welcome to my Bank Landing Page, a modern and responsive website built with React and JavaScript! 🚀
 
-##✨ About the Project
+## ✨ About the Project
 This project was a practice project developed while following the "Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns" on Udemy by "Jonas Schmedtmann". The goal was to enhance my skills in React, CSS, and UI/UX design, focusing on building a professional and visually appealing landing page.
 
 ## 🚀 Features
