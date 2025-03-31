@@ -1,8 +1,15 @@
-# React + Vite
+# 💰 Bank Landing Page - React & JavaScript
+Welcome to my Bank Landing Page, a modern and responsive website built with React and JavaScript! 🚀
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+##✨ About the Project
+This project was a practice project developed while following the "Master modern React from beginner to advanced! Next.js, Context API, React Query, Redux, Tailwind, advanced patterns" on Udemy by "Jonas Schmedtmann". The goal was to enhance my skills in React, CSS, and UI/UX design, focusing on building a professional and visually appealing landing page.
 
-Currently, two official plugins are available:
+## 🚀 Features
+* ✅ Sleek and responsive design
+* ✅ Interactive UI with smooth animations
+* ✅ Mobile-friendly layout
+* ✅ Modern banking-themed visuals
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+🔗 Live Demo: <a href="https://jesuscris90.github.io/bank-landing-page/" target="_blank">Live Demo</a>
+
+Feel free to explore, provide feedback, or contribute! 😊
